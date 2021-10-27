@@ -71,7 +71,6 @@ else:
 
 # Create a validity flag:
 ageValid = False
-
 # While loop repeating while the age is not valid
 while ageValid == False:
     age = input('How old are you?')    # Just a string
